@@ -1,6 +1,19 @@
-# Legal Anime Streaming List
+# Legal Tokusatsu Streaming List
 
-A curated list of worldwide legal tokusatsu streaming.
+<p align="center">
+	<a href="https://otakulogy.github.io/manga-platform/">manga</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="https://otakulogy.github.io/tokusatsu-streaming">tokusatsu</a>
+</p>
+
+
+A curated list of worldwide legal tokusatsu streaming. Please note that this list only for Japanese works, platform that host foreign works such as Power Rangers or Bima Ksatria Garuda is not included in this list.
+
+## Contents:
+- [Online Platform](#online-platform)
+- [Free to watch Youtube channel](#free-to-watch-youtube-channel)
+
+## Online Platform
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
@@ -17,7 +30,7 @@ A curated list of worldwide legal tokusatsu streaming.
 |[Telasa](https://videopass.jp)|Japan|Japanese||
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle||
 
-# Free to watch Youtube channel
+## Free to watch Youtube channel
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |

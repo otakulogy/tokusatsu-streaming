@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="https://otakulogy.github.io/manga-platform/">manga</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	<a href="https://otakulogy.github.io/tokusatsu-streaming">tokusatsu</a>
+	<a href="https://otakulogy.github.io/anime-streaming">anime</a>
 </p>
 
 
@@ -28,6 +28,7 @@ A curated list of worldwide legal tokusatsu streaming. Please note that this lis
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 |[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
 |[Telasa](https://videopass.jp)|Japan|Japanese||
+|[Toei Tokusatsu Fanclub](http://tokusatsu-fc.jp/)|Japan|Japanese|Android and iOS only; 960JPY/month|
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle||
 
 ## Free to watch Youtube channel
